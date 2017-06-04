@@ -39,6 +39,6 @@ Um aplicativo Java GUI que implementa os seguintes serviços de uma Agenda Eletr
 </ul>
 <hr>
 <h4>Screenshots</h4>
-![menu](https://raw.github.com/GianCarlosB/Agenda-Eletronica/master/tsi.lpv.agendaeletronica/Agênda Eletrônica/screenshots/Agenda Eletrônica - Perspectiva Mínima.png)
+<img src="https://raw.github.com/GianCarlosB/Agenda-Eletronica/master/tsi.lpv.agendaeletronica/Agênda Eletrônica/screenshots/Agenda Eletrônica%20-%20Perspectiva Mínima.png" alt="menu"/>
 <hr>
-![perspectiva_mínima](https://raw.github.com/GianCarlosB/Agenda-Eletronica/master/tsi.lpv.agendaeletronica/Agênda Eletrônica/screenshots/Agenda Eletrônica - Menu.png)
+<img src="https://raw.github.com/GianCarlosB/Agenda-Eletronica/master/tsi.lpv.agendaeletronica/Agênda Eletrônica/screenshots/Agenda Eletrônica%20-%20Menu.png" alt="perspectiva_mínima"/>
